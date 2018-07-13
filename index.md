@@ -1,6 +1,8 @@
-# 알락블록 on GH / ilik blog 2 on Gibhub
+# 알락블록 II
 
-This is Daewon YOON's blogging space on github.
+i write and record. because my memory is limited. 
+
+
 
 
 
